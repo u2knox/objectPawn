@@ -1,0 +1,1014 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:37:42] filterscripts = ""  (string)
+[21:37:42] 
+[21:37:42] Server Plugins
+[21:37:42] --------------
+[21:37:42]  Loaded 0 plugins.
+
+[21:37:42] 
+[21:37:42] Filterscripts
+[21:37:42] ---------------
+[21:37:42]   Loaded 0 filterscripts.
+
+[21:37:42] >> by knox
+[21:37:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:47:56] filterscripts = ""  (string)
+[21:47:56] 
+[21:47:56] Server Plugins
+[21:47:56] --------------
+[21:47:56]  Loaded 0 plugins.
+
+[21:47:56] 
+[21:47:56] Filterscripts
+[21:47:56] ---------------
+[21:47:56]   Loaded 0 filterscripts.
+
+[21:47:56] Test text
+[21:47:56] >> by knox
+[21:47:56] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:41:54] filterscripts = ""  (string)
+[16:41:54] 
+[16:41:54] Server Plugins
+[16:41:54] --------------
+[16:41:54]  Loaded 0 plugins.
+
+[16:41:54] 
+[16:41:54] Filterscripts
+[16:41:54] ---------------
+[16:41:54]   Loaded 0 filterscripts.
+
+[16:41:54] >> by knox
+[16:41:54] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:27:27] filterscripts = ""  (string)
+[17:27:27] 
+[17:27:27] Server Plugins
+[17:27:27] --------------
+[17:27:27]  Loading plugin: pawn-memory
+[17:27:27] ========================
+[17:27:27] = Memory access plugin =
+[17:27:27] =       Made by BigETI =
+[17:27:27] = Loaded!              =
+[17:27:27] ========================
+[17:27:27]   Loaded.
+[17:27:27]  Loaded 1 plugins.
+
+[17:27:27] 
+[17:27:27] Filterscripts
+[17:27:27] ---------------
+[17:27:27]   Loaded 0 filterscripts.
+
+[17:27:27] >> by knox
+[17:27:27] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:33:20] filterscripts = ""  (string)
+[17:33:20] 
+[17:33:20] Server Plugins
+[17:33:20] --------------
+[17:33:20]  Loading plugin: pawn-memory
+[17:33:20] ========================
+[17:33:20] = Memory access plugin =
+[17:33:20] =       Made by BigETI =
+[17:33:20] = Loaded!              =
+[17:33:20] ========================
+[17:33:20]   Loaded.
+[17:33:20]  Loaded 1 plugins.
+
+[17:33:20] 
+[17:33:20] Filterscripts
+[17:33:20] ---------------
+[17:33:20]   Loaded 0 filterscripts.
+
+[17:33:20] 0 0
+[17:33:20] >> by knox
+[17:33:20] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:33:41] filterscripts = ""  (string)
+[17:33:41] 
+[17:33:41] Server Plugins
+[17:33:41] --------------
+[17:33:41]  Loading plugin: pawn-memory
+[17:33:41] ========================
+[17:33:41] = Memory access plugin =
+[17:33:41] =       Made by BigETI =
+[17:33:41] = Loaded!              =
+[17:33:41] ========================
+[17:33:41]   Loaded.
+[17:33:41]  Loaded 1 plugins.
+
+[17:33:41] 
+[17:33:41] Filterscripts
+[17:33:41] ---------------
+[17:33:41]   Loaded 0 filterscripts.
+
+[17:33:41] 0 0
+[17:33:41] >> by knox
+[17:33:41] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:34:00] filterscripts = ""  (string)
+[17:34:00] 
+[17:34:00] Server Plugins
+[17:34:00] --------------
+[17:34:00]  Loading plugin: pawn-memory
+[17:34:00] ========================
+[17:34:00] = Memory access plugin =
+[17:34:00] =       Made by BigETI =
+[17:34:00] = Loaded!              =
+[17:34:00] ========================
+[17:34:00]   Loaded.
+[17:34:00]  Loaded 1 plugins.
+
+[17:34:00] 
+[17:34:00] Filterscripts
+[17:34:00] ---------------
+[17:34:00]   Loaded 0 filterscripts.
+
+[17:34:00] 0 5
+[17:34:00] >> by knox
+[17:34:00] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:34:49] filterscripts = ""  (string)
+[17:34:49] 
+[17:34:49] Server Plugins
+[17:34:49] --------------
+[17:34:49]  Loading plugin: pawn-memory
+[17:34:49] ========================
+[17:34:49] = Memory access plugin =
+[17:34:49] =       Made by BigETI =
+[17:34:49] = Loaded!              =
+[17:34:49] ========================
+[17:34:49]   Loaded.
+[17:34:49]  Loaded 1 plugins.
+
+[17:34:49] 
+[17:34:49] Filterscripts
+[17:34:49] ---------------
+[17:34:49]   Loaded 0 filterscripts.
+
+[17:34:49] 0 5
+[17:34:49] 1 0
+[17:34:49] 2 0
+[17:34:49] 3 0
+[17:34:49] 4 0
+[17:34:49] >> by knox
+[17:34:49] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:35:44] filterscripts = ""  (string)
+[17:35:44] 
+[17:35:44] Server Plugins
+[17:35:44] --------------
+[17:35:44]  Loading plugin: pawn-memory
+[17:35:44] ========================
+[17:35:44] = Memory access plugin =
+[17:35:44] =       Made by BigETI =
+[17:35:44] = Loaded!              =
+[17:35:44] ========================
+[17:35:44]   Loaded.
+[17:35:44]  Loaded 1 plugins.
+
+[17:35:44] 
+[17:35:44] Filterscripts
+[17:35:44] ---------------
+[17:35:44]   Loaded 0 filterscripts.
+
+[17:35:44] 0 5
+[17:35:44] 1 10
+[17:35:44] >> by knox
+[17:35:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:36:48] filterscripts = ""  (string)
+[17:36:48] 
+[17:36:48] Server Plugins
+[17:36:48] --------------
+[17:36:48]  Loading plugin: pawn-memory
+[17:36:48] ========================
+[17:36:48] = Memory access plugin =
+[17:36:48] =       Made by BigETI =
+[17:36:48] = Loaded!              =
+[17:36:48] ========================
+[17:36:48]   Loaded.
+[17:36:48]  Loaded 1 plugins.
+
+[17:36:48] 
+[17:36:48] Filterscripts
+[17:36:48] ---------------
+[17:36:48]   Loaded 0 filterscripts.
+
+[17:36:48] 0 5
+[17:36:48] 1 10
+[17:36:48] 2 15
+[17:36:48] 3 20
+[17:36:48] 4 25
+[17:36:48] >> by knox
+[17:36:48] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:37:05] filterscripts = ""  (string)
+[17:37:05] 
+[17:37:05] Server Plugins
+[17:37:05] --------------
+[17:37:05]  Loading plugin: pawn-memory
+[17:37:05] ========================
+[17:37:05] = Memory access plugin =
+[17:37:05] =       Made by BigETI =
+[17:37:05] = Loaded!              =
+[17:37:05] ========================
+[17:37:05]   Loaded.
+[17:37:05]  Loaded 1 plugins.
+
+[17:37:05] 
+[17:37:05] Filterscripts
+[17:37:05] ---------------
+[17:37:05]   Loaded 0 filterscripts.
+
+[17:37:05] 0 5
+[17:37:05] 1 10
+[17:37:05] 2 15
+[17:37:05] 3 20
+[17:37:05] 4 25
+[17:37:05] >> by knox
+[17:37:05] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:52:14] filterscripts = ""  (string)
+[18:52:14] 
+[18:52:14] Server Plugins
+[18:52:14] --------------
+[18:52:14]  Loading plugin: pawn-memory
+[18:52:14] ========================
+[18:52:14] = Memory access plugin =
+[18:52:14] =       Made by BigETI =
+[18:52:14] = Loaded!              =
+[18:52:14] ========================
+[18:52:14]   Loaded.
+[18:52:14]  Loaded 1 plugins.
+
+[18:52:14] 
+[18:52:14] Filterscripts
+[18:52:14] ---------------
+[18:52:14]   Loaded 0 filterscripts.
+
+[18:52:14] 0 5
+[18:52:14] 1 10
+[18:52:14] 2 15
+[18:52:14] 3 20
+[18:52:14] 4 25
+[18:52:14] >> by knox
+[18:52:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:52:21] filterscripts = ""  (string)
+[18:52:21] 
+[18:52:21] Server Plugins
+[18:52:21] --------------
+[18:52:21]  Loading plugin: pawn-memory
+[18:52:21] ========================
+[18:52:21] = Memory access plugin =
+[18:52:21] =       Made by BigETI =
+[18:52:21] = Loaded!              =
+[18:52:21] ========================
+[18:52:21]   Loaded.
+[18:52:21]  Loaded 1 plugins.
+
+[18:52:21] 
+[18:52:21] Filterscripts
+[18:52:21] ---------------
+[18:52:21]   Loaded 0 filterscripts.
+
+[18:52:21] 0 115
+[18:52:21] 1 10
+[18:52:21] 2 15
+[18:52:21] 3 20
+[18:52:21] 4 25
+[18:52:21] >> by knox
+[18:52:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:53:18] filterscripts = ""  (string)
+[18:53:18] 
+[18:53:18] Server Plugins
+[18:53:18] --------------
+[18:53:18]  Loading plugin: pawn-memory
+[18:53:18] ========================
+[18:53:18] = Memory access plugin =
+[18:53:18] =       Made by BigETI =
+[18:53:18] = Loaded!              =
+[18:53:18] ========================
+[18:53:18]   Loaded.
+[18:53:18]  Loaded 1 plugins.
+
+[18:53:18] 
+[18:53:18] Filterscripts
+[18:53:18] ---------------
+[18:53:18]   Loaded 0 filterscripts.
+
+[18:53:18] 0 115
+[18:53:18] 1 10
+[18:53:18] 2 15
+[18:53:18] 3 20
+[18:53:18] 4 25
+[18:53:18] >> by knox
+[18:53:18] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:03:52] filterscripts = ""  (string)
+[19:03:52] 
+[19:03:52] Server Plugins
+[19:03:52] --------------
+[19:03:52]  Loading plugin: pawn-memory
+[19:03:52] ========================
+[19:03:52] = Memory access plugin =
+[19:03:52] =       Made by BigETI =
+[19:03:52] = Loaded!              =
+[19:03:52] ========================
+[19:03:52]   Loaded.
+[19:03:52]  Loaded 1 plugins.
+
+[19:03:52] 
+[19:03:52] Filterscripts
+[19:03:52] ---------------
+[19:03:52]   Loaded 0 filterscripts.
+
+[19:03:52] 0 0
+[19:03:52] >> by knox
+[19:03:52] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:04:35] filterscripts = ""  (string)
+[19:04:35] 
+[19:04:35] Server Plugins
+[19:04:35] --------------
+[19:04:35]  Loading plugin: pawn-memory
+[19:04:35] ========================
+[19:04:35] = Memory access plugin =
+[19:04:35] =       Made by BigETI =
+[19:04:35] = Loaded!              =
+[19:04:35] ========================
+[19:04:35]   Loaded.
+[19:04:35]  Loaded 1 plugins.
+
+[19:04:35] 
+[19:04:35] Filterscripts
+[19:04:35] ---------------
+[19:04:35]   Loaded 0 filterscripts.
+
+[19:04:35] 0 0
+[19:04:35] >> by knox
+[19:04:35] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:05:23] filterscripts = ""  (string)
+[19:05:23] 
+[19:05:23] Server Plugins
+[19:05:23] --------------
+[19:05:23]  Loading plugin: pawn-memory
+[19:05:23] ========================
+[19:05:23] = Memory access plugin =
+[19:05:23] =       Made by BigETI =
+[19:05:23] = Loaded!              =
+[19:05:23] ========================
+[19:05:23]   Loaded.
+[19:05:23]  Loaded 1 plugins.
+
+[19:05:24] 
+[19:05:24] Filterscripts
+[19:05:24] ---------------
+[19:05:24]   Loaded 0 filterscripts.
+
+[19:05:24] 0 5
+[19:05:24] 1 10
+[19:05:24] 2 15
+[19:05:24] 3 20
+[19:05:24] 4 25
+[19:05:24] >> by knox
+[19:05:24] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:05:37] filterscripts = ""  (string)
+[19:05:37] 
+[19:05:37] Server Plugins
+[19:05:37] --------------
+[19:05:37]  Loading plugin: pawn-memory
+[19:05:37] ========================
+[19:05:37] = Memory access plugin =
+[19:05:37] =       Made by BigETI =
+[19:05:37] = Loaded!              =
+[19:05:37] ========================
+[19:05:37]   Loaded.
+[19:05:37]  Loaded 1 plugins.
+
+[19:05:37] 
+[19:05:37] Filterscripts
+[19:05:37] ---------------
+[19:05:37]   Loaded 0 filterscripts.
+
+[19:05:37] This is a test. 0 5
+[19:05:37] This is a test. 1 10
+[19:05:37] This is a test. 2 15
+[19:05:37] This is a test. 3 20
+[19:05:37] This is a test. 4 25
+[19:05:37] >> by knox
+[19:05:37] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:43:21] filterscripts = ""  (string)
+[19:43:21] 
+[19:43:21] Server Plugins
+[19:43:21] --------------
+[19:43:21]  Loading plugin: pawn-memory
+[19:43:21] ========================
+[19:43:21] = Memory access plugin =
+[19:43:21] =       Made by BigETI =
+[19:43:21] = Loaded!              =
+[19:43:21] ========================
+[19:43:21]   Loaded.
+[19:43:21]  Loaded 1 plugins.
+
+[19:43:21] 
+[19:43:21] Filterscripts
+[19:43:21] ---------------
+[19:43:21]   Loaded 0 filterscripts.
+
+[19:43:21] This is a test. 0 5
+[19:43:21] This is a test. 1 10
+[19:43:21] This is a test. 2 15
+[19:43:21] This is a test. 3 20
+[19:43:21] This is a test. 4 25
+[19:43:21] >> by knox
+[19:43:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:43:45] filterscripts = ""  (string)
+[19:43:45] 
+[19:43:45] Server Plugins
+[19:43:45] --------------
+[19:43:45]  Loading plugin: pawn-memory
+[19:43:45] ========================
+[19:43:45] = Memory access plugin =
+[19:43:45] =       Made by BigETI =
+[19:43:45] = Loaded!              =
+[19:43:45] ========================
+[19:43:45]   Loaded.
+[19:43:45]  Loaded 1 plugins.
+
+[19:43:45] 
+[19:43:45] Filterscripts
+[19:43:45] ---------------
+[19:43:45]   Loaded 0 filterscripts.
+
+[19:43:45] This is a test. 0 5
+[19:43:45] This is a test. 1 10
+[19:43:45] This is a test. 2 15
+[19:43:45] This is a test. 3 20
+[19:43:45] This is a test. 4 25
+[19:43:45] class ret 1
+[19:43:45] >> by knox
+[19:43:45] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:45:44] filterscripts = ""  (string)
+[19:45:44] 
+[19:45:44] Server Plugins
+[19:45:44] --------------
+[19:45:44]  Loading plugin: pawn-memory
+[19:45:44] ========================
+[19:45:44] = Memory access plugin =
+[19:45:44] =       Made by BigETI =
+[19:45:44] = Loaded!              =
+[19:45:44] ========================
+[19:45:44]   Loaded.
+[19:45:44]  Loaded 1 plugins.
+
+[19:45:44] 
+[19:45:44] Filterscripts
+[19:45:44] ---------------
+[19:45:44]   Loaded 0 filterscripts.
+
+[19:45:44] This is a test. 0 5
+[19:45:44] This is a test. 1 10
+[19:45:44] This is a test. 2 15
+[19:45:44] This is a test. 3 20
+[19:45:44] This is a test. 4 25
+[19:45:44] class ret 1
+[19:45:44] >> by knox
+[19:45:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:46:45] filterscripts = ""  (string)
+[19:46:45] 
+[19:46:45] Server Plugins
+[19:46:45] --------------
+[19:46:45]  Loading plugin: pawn-memory
+[19:46:45] ========================
+[19:46:45] = Memory access plugin =
+[19:46:45] =       Made by BigETI =
+[19:46:45] = Loaded!              =
+[19:46:45] ========================
+[19:46:45]   Loaded.
+[19:46:45]  Loaded 1 plugins.
+
+[19:46:45] 
+[19:46:45] Filterscripts
+[19:46:45] ---------------
+[19:46:45]   Loaded 0 filterscripts.
+
+[19:46:45] This is a test. 0 5
+[19:46:45] This is a test. 1 10
+[19:46:45] This is a test. 2 15
+[19:46:45] This is a test. 3 20
+[19:46:45] This is a test. 4 25
+[19:46:45] class ret 1
+[19:46:45] >> by knox
+[19:46:45] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:47:57] filterscripts = ""  (string)
+[19:47:57] 
+[19:47:57] Server Plugins
+[19:47:57] --------------
+[19:47:57]  Loading plugin: pawn-memory
+[19:47:57] ========================
+[19:47:57] = Memory access plugin =
+[19:47:57] =       Made by BigETI =
+[19:47:57] = Loaded!              =
+[19:47:57] ========================
+[19:47:57]   Loaded.
+[19:47:57]  Loaded 1 plugins.
+
+[19:47:57] 
+[19:47:57] Filterscripts
+[19:47:57] ---------------
+[19:47:57]   Loaded 0 filterscripts.
+
+[19:47:57] This is a test. 0 5
+[19:47:57] This is a test. 1 10
+[19:47:57] This is a test. 2 15
+[19:47:57] This is a test. 3 20
+[19:47:57] This is a test. 4 25
+[19:47:57] class ret 1
+[19:47:57] >> by knox
+[19:47:57] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:48:17] filterscripts = ""  (string)
+[19:48:17] 
+[19:48:17] Server Plugins
+[19:48:17] --------------
+[19:48:17]  Loading plugin: pawn-memory
+[19:48:17] ========================
+[19:48:17] = Memory access plugin =
+[19:48:17] =       Made by BigETI =
+[19:48:17] = Loaded!              =
+[19:48:17] ========================
+[19:48:17]   Loaded.
+[19:48:17]  Loaded 1 plugins.
+
+[19:48:17] 
+[19:48:17] Filterscripts
+[19:48:17] ---------------
+[19:48:17]   Loaded 0 filterscripts.
+
+[19:48:17] This is a test. 0 5
+[19:48:17] This is a test. 1 10
+[19:48:17] This is a test. 2 15
+[19:48:17] This is a test. 3 20
+[19:48:17] This is a test. 4 25
+[19:48:17] class ret 0
+[19:48:17] >> by knox
+[19:48:17] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:48:26] filterscripts = ""  (string)
+[19:48:26] 
+[19:48:26] Server Plugins
+[19:48:26] --------------
+[19:48:26]  Loading plugin: pawn-memory
+[19:48:26] ========================
+[19:48:26] = Memory access plugin =
+[19:48:26] =       Made by BigETI =
+[19:48:26] = Loaded!              =
+[19:48:26] ========================
+[19:48:26]   Loaded.
+[19:48:26]  Loaded 1 plugins.
+
+[19:48:26] 
+[19:48:26] Filterscripts
+[19:48:26] ---------------
+[19:48:26]   Loaded 0 filterscripts.
+
+[19:48:26] This is a test. 0 5
+[19:48:26] This is a test. 1 10
+[19:48:26] This is a test. 2 15
+[19:48:26] This is a test. 3 20
+[19:48:26] This is a test. 4 25
+[19:48:26] gr 0 -1
+[19:48:26] gr 1 -1
+[19:48:26] GetName 1
+[19:48:26] class ret 2
+[19:48:26] >> by knox
+[19:48:26] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:48:41] filterscripts = ""  (string)
+[19:48:41] 
+[19:48:41] Server Plugins
+[19:48:41] --------------
+[19:48:41]  Loading plugin: pawn-memory
+[19:48:41] ========================
+[19:48:41] = Memory access plugin =
+[19:48:41] =       Made by BigETI =
+[19:48:41] = Loaded!              =
+[19:48:41] ========================
+[19:48:41]   Loaded.
+[19:48:41]  Loaded 1 plugins.
+
+[19:48:41] 
+[19:48:41] Filterscripts
+[19:48:41] ---------------
+[19:48:41]   Loaded 0 filterscripts.
+
+[19:48:41] This is a test. 0 5
+[19:48:41] This is a test. 1 10
+[19:48:41] This is a test. 2 15
+[19:48:41] This is a test. 3 20
+[19:48:41] This is a test. 4 25
+[19:48:41] class ret 2
+[19:48:41] >> by knox
+[19:48:41] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:53:34] filterscripts = ""  (string)
+[19:53:34] 
+[19:53:34] Server Plugins
+[19:53:34] --------------
+[19:53:34]  Loading plugin: pawn-memory
+[19:53:34] ========================
+[19:53:34] = Memory access plugin =
+[19:53:34] =       Made by BigETI =
+[19:53:34] = Loaded!              =
+[19:53:34] ========================
+[19:53:34]   Loaded.
+[19:53:34]  Loaded 1 plugins.
+
+[19:53:34] 
+[19:53:34] Filterscripts
+[19:53:34] ---------------
+[19:53:34]   Loaded 0 filterscripts.
+
+[19:53:34] This is a test. 0 5
+[19:53:34] This is a test. 1 10
+[19:53:34] This is a test. 2 15
+[19:53:34] This is a test. 3 20
+[19:53:34] This is a test. 4 25
+[19:53:34] const format[]
+[19:53:34] const format[]
+[19:53:34] class ret 1
+[19:53:34] const format[]
+[19:53:34] class ret 1
+[19:53:34] >> by knox
+[19:53:34] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:57:59] filterscripts = ""  (string)
+[19:57:59] 
+[19:57:59] Server Plugins
+[19:57:59] --------------
+[19:57:59]  Loading plugin: pawn-memory
+[19:57:59] ========================
+[19:57:59] = Memory access plugin =
+[19:57:59] =       Made by BigETI =
+[19:57:59] = Loaded!              =
+[19:57:59] ========================
+[19:57:59]   Loaded.
+[19:57:59]  Loaded 1 plugins.
+
+[19:57:59] 
+[19:57:59] Filterscripts
+[19:57:59] ---------------
+[19:57:59]   Loaded 0 filterscripts.
+
+[19:57:59] This is a test. 0 5
+[19:57:59] This is a test. 1 10
+[19:57:59] This is a test. 2 15
+[19:57:59] This is a test. 3 20
+[19:57:59] This is a test. 4 25
+[19:57:59] const format[]
+[19:57:59] const format[]
+[19:57:59] class ret 1
+[19:57:59] const format[]
+[19:57:59] class ret 1
+[19:57:59] >> by knox
+[19:57:59] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:13:21] filterscripts = ""  (string)
+[20:13:21] 
+[20:13:21] Server Plugins
+[20:13:21] --------------
+[20:13:21]  Loading plugin: pawn-memory
+[20:13:21] ========================
+[20:13:21] = Memory access plugin =
+[20:13:21] =       Made by BigETI =
+[20:13:21] = Loaded!              =
+[20:13:21] ========================
+[20:13:21]   Loaded.
+[20:13:21]  Loaded 1 plugins.
+
+[20:13:21] 
+[20:13:21] Filterscripts
+[20:13:21] ---------------
+[20:13:21]   Loaded 0 filterscripts.
+
+[20:13:21] class Player 1
+[20:13:21] class Player 2
+[20:13:21] class Vehicle 1
+[20:13:21] class Vehicle 3
+[20:13:21] >> by knox
+[20:13:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:14:41] filterscripts = ""  (string)
+[20:14:41] 
+[20:14:41] Server Plugins
+[20:14:41] --------------
+[20:14:41]  Loading plugin: pawn-memory
+[20:14:41] ========================
+[20:14:41] = Memory access plugin =
+[20:14:41] =       Made by BigETI =
+[20:14:41] = Loaded!              =
+[20:14:41] ========================
+[20:14:41]   Loaded.
+[20:14:41]  Loaded 1 plugins.
+
+[20:14:41] 
+[20:14:41] Filterscripts
+[20:14:41] ---------------
+[20:14:41]   Loaded 0 filterscripts.
+
+[20:14:41] class Player 2
+[20:14:41] class Player 2
+[20:14:41] class Vehicle 3
+[20:14:41] class Vehicle 3
+[20:14:41] >> by knox
+[20:14:41] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:15:22] filterscripts = ""  (string)
+[20:15:22] 
+[20:15:22] Server Plugins
+[20:15:22] --------------
+[20:15:22]  Loading plugin: pawn-memory
+[20:15:22] ========================
+[20:15:22] = Memory access plugin =
+[20:15:22] =       Made by BigETI =
+[20:15:22] = Loaded!              =
+[20:15:22] ========================
+[20:15:22]   Loaded.
+[20:15:22]  Loaded 1 plugins.
+
+[20:15:22] 
+[20:15:22] Filterscripts
+[20:15:22] ---------------
+[20:15:22]   Loaded 0 filterscripts.
+
+[20:15:22] Dfsd
+[20:15:22] Dfsd
+[20:15:22] class Player 2
+[20:15:22] Dfsd
+[20:15:22] class Player 2
+[20:15:22] sdfs
+[20:15:22] sdfs
+[20:15:22] class Vehicle 3
+[20:15:22] sdfs
+[20:15:22] class Vehicle 3
+[20:15:22] >> by knox
+[20:15:22] Number of vehicle models: 0
